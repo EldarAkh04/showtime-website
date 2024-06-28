@@ -32,10 +32,10 @@ Our team consists of 5 talented individuals that came together to create a prodc
 {{</section>}} 
 
 {{<gallery>}}
-{{<team-member image="cat.jpg" name="Son Xuan Hoang">}}
+<!-- {{<team-member image="cat1.jpg" name="Son Xuan Hoang">}}
 {{<team-member image="Paul.jpg" name="Paul Schiffner">}}
 {{<team-member image="cat3.jpg" name="Yasin Dalowar">}}
 {{<team-member image="cat4.jpg" name="Mathieu Wassmuth">}}
-{{<team-member image="cat5.jpg" name="Eldar Akhundzada">}}
+{{<team-member image="cat5.jpg" name="Eldar Akhundzada">}} -->
 {{</gallery>}}
 
