@@ -6,13 +6,13 @@ claim = ""
 abstract = ""
 
 # Properties for displaying the project in the project list
-card_image = "kitty.jpg"
+card_image = "Logo.jpg"
 # card_description is deprecated, will be replaced by abstract/and or claim
-card_description = "Our project..." 
+card_description = "SEMPY is an AI-Research Agent that supprts customers of the idealo website to help them make better buying decission. This is tool takes different information from different websites and summarizes them and gives the best advice." 
 
 # Names are optional, team size is sufficient
-team = ["Son Xuan Hoang", "Paul Schiffner", "Yassin Dalowar", "Mathieu Wassmuth", "Eldar Akhundzada"]
-supervisor = "Jakon Panthen"
+team = ["Son Xuan Hoang","Eldar Akhundzada", "Mathieu Wassmuth", "Paul Schiffner", "Yasin Dalowar"]
+supervisor = "Jakob Panten & Jana Dolan & Tino Nitze"
 draft = false
 
 website_link = ""
@@ -20,20 +20,22 @@ source_link = ""
 
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. 
 
 {{<section title="Our Goal">}}
-Praesent dignissim dolor vel augue pellentesque imperdiet. Proin congue tellus sed nunc porttitor, eu maximus augue cursus. Donec aliquam pharetra tempus. 
+The goal of this project is to offer an AI driven research agent on idealo's price comparison platform that supports users who have not yet made a decision on which product to buy and are looking for additional information. 
 
 {{</section>}}
 
 
 {{<section title="The team">}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. 
+Our team consists of 5 talented individuals that came together to create a prodcut for customes. Each team meber brought a unique skill. 
 {{</section>}} 
 
 {{<gallery>}}
-{{<team-member image="cat.jpg" name="team member cat">}}
-{{<team-member image="cat2.jpg" name="team member cat2">}}
+{{<team-member image="Son2.jpg" name="Son Xuan Hoang">}}
+<!-- {{<team-member image="cat2.jpg" name="Paul Schiffner">}}
+{{<team-member image="cat3.jpg" name="Yasin Dalowar">}}
+{{<team-member image="cat4.jpg" name="Mathieu Wassmuth">}}
+{{<team-member image="cat5.jpg" name="Eldar Akhundzada">}} -->
 {{</gallery>}}
 

@@ -1,21 +1,10 @@
 +++
 title = "Features"
-weight = 20
-draft = true
+weight = 10
+draft = false
 +++
 
 {{<section title="Features">}}
-
-* **Roles**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. 
-
-
-* **Game-Flow**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. 
-
-* **Voting Systems**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. 
 
