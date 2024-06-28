@@ -8,25 +8,18 @@
     <language>de-de</language>
     <atom:link href="https://EldarAkh04.github.io/showtime-website/ss24/bachelor/b4-template/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Goal</title>
-      <link>https://EldarAkh04.github.io/showtime-website/ss24/bachelor/b4-template/goal/</link>
+      <title>Features</title>
+      <link>https://EldarAkh04.github.io/showtime-website/ss24/bachelor/b4-template/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://EldarAkh04.github.io/showtime-website/ss24/bachelor/b4-template/goal/</guid>
-      <description> Goal Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
+      <guid>https://EldarAkh04.github.io/showtime-website/ss24/bachelor/b4-template/features/</guid>
+      <description> Features Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
     </item>
     <item>
       <title>Process</title>
       <link>https://EldarAkh04.github.io/showtime-website/ss24/bachelor/b4-template/process/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://EldarAkh04.github.io/showtime-website/ss24/bachelor/b4-template/process/</guid>
-      <description> Process Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. </description>
-    </item>
-    <item>
-      <title>Features</title>
-      <link>https://EldarAkh04.github.io/showtime-website/ss24/bachelor/b4-template/features/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://EldarAkh04.github.io/showtime-website/ss24/bachelor/b4-template/features/</guid>
-      <description>Features Roles Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Game-Flow Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.&#xA;Voting Systems Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis.</description>
+      <description>Process We startetd the project by brainstorming and noting down our ideas on a Miro Board. We had an idea, to do a chatbot like &amp;ldquo;Perplexity&amp;rdquo; and let the customers ask there bot about the products. Instead we decided to have the AI-Tool on the productpage of idealp and output the information for the customer. We wanted the tool to include pros and cons as well as a summary of the customer reviews to the product they are looking up.</description>
     </item>
     <item>
       <title>Tech Stack</title>
